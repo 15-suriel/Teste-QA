@@ -4,11 +4,15 @@ Teste de habilidade utilizando cypress
 Para rodar os testes, instale o VSCode na sua máquina: https://code.visualstudio.com/download
 
 Após, baixe este repositório git;
+
 git clone 'https://github.com/15-suriel/Teste-QA.git'
 
 Para instalação do cypress, rode os seguintes comandos em um terminal do VSCode: 
+
 npm init 
+
 npm install -D cypress 
+
 npx cypress open
 
 (ao abrir o cypress, selecione a opção E2E)
