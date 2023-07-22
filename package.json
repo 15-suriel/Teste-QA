@@ -1,0 +1,14 @@
+{
+  "name": "teste-qa",
+  "version": "1.0.0",
+  "description": "Teste de habilidade utilizando cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Suriel Jacobsen",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.3.0"
+  }
+}
